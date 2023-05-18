@@ -1,0 +1,55 @@
+body {
+  background-color: #567895;
+  width: 500px;
+  margin: 30px;
+}
+
+.emojis-list {
+  width: 500px;
+  margin: 30px;
+}
+
+.emojis-test {
+  margin-top: 10px;
+  padding: 5px;
+  border: 0px solid black;
+  border-radius: 6px;
+  background-color: white;
+  width: 150px;
+}
+
+.emojis-h1 {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  &:hover {
+    color: Crimson;
+    cursor: pointer;
+  }
+}
+
+.emojis-Btn {
+  width: 100px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #567895;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+  &:hover {
+    background-color: #567895;
+    color: white;
+    cursor: pointer;
+  }
+}
+.emojis-result-h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 20px;
+  &:hover {
+    color: Crimson;
+    cursor: pointer;
+  }
+}
